@@ -5,7 +5,7 @@ This repository contains the code from my master's thesis, "Evaluating the Effec
 The process is divided across seven scripts. With few exceptions, intermediate outputs that might be of interest for other tasks are saved as Excel sheets for ease of use.
 
 #### Dependencies
-All code run on Python 3.11 with packages dependencies:
+All code run on Python 3.11 with the following package dependencies:
 - pandas
 - numpy
 - pyro
